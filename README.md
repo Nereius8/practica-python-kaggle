@@ -12,7 +12,9 @@ Trabajo práctico de desarrollo de aplicaciones y gestión de entornos técnicos
 ## 🚀 Apartados del Proyecto
 
 ### Apartado 1: Control de Versiones con Git y GitHub
-Creación del repositorio remoto `practica-python-kaggle` y gestión de ramas e incidencias desde la terminal de macOS.
+* **Usuario de GitHub:** `Nereius8`[cite: 2]
+* **Repositorio remoto:** `practica-python-kaggle`
+* Gestión de ramas, commits y control de versiones ejecutados desde la terminal de macOS.
 
 ### Apartado 2: Programación en Python
 Implementación de scripts eficientes para el procesamiento de colecciones de datos, diccionarios de frecuencia y operaciones con conjuntos en Python 3.
@@ -22,8 +24,11 @@ Consulta de competiciones activas y obtención de datasets de Machine Learning.
 * **Competición seleccionada:** Titanic - Machine Learning from Disaster.
 
 #### Evidencias visuales:
-* **Vista general de la competición:**
-  ![Competición Kaggle](img/Captura%20de%20pantalla%202026-11-09%20a%20las%2011.34.56.png)
+* **Perfil de usuario y entorno de trabajo en GitHub:**  
+  ![Perfil GitHub](img/github-perfil.png)[cite: 2]
 
-* **Descarga y estructura del Dataset:**
-  ![Dataset Kaggle](img/Captura%20de%20pantalla%202026-11-09%20a%20las%2011.35.43.png)
+* **Vista general de la competición en Kaggle:**  
+  ![Competición Kaggle](img/kaggle-competicion.png)[cite: 7]
+
+* **Descarga y estructura del Dataset:**  
+  ![Dataset Descargado](img/kaggle-dataset.png)[cite: 7]
