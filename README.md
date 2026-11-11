@@ -25,7 +25,7 @@ Consulta de competiciones activas y obtención de datasets de Machine Learning.
 
 #### Evidencias visuales:
 * **Perfil de usuario y entorno de trabajo en GitHub:**  
-  ![Perfil GitHub](img/Github-perfil.png)
+  ![Perfil GitHub](./img/Github-perfil.png)
 
 * **Vista general de la competición en Kaggle:**  
   ![Competición Kaggle](img/Kaggle-competicion.png)
